@@ -92,7 +92,6 @@ if (defeatEnemy.enemies === chalk.yellow("COMMON ENEMIES")) {
   console.log(chalk.green("\n\t CONGRATULATION!! U GOT 85 PRIMOGEMS"));
   console.log(chalk.green(`\n\t TOTAL PRIMOGEMS :${primoGems + 85} `));
   console.log(chalk.red("\n\t  GAME END"));
-  console.log("\n\nif u wanna continue the game run the command again cuz i don't know what is the code to contue the game.U better run the command 3 times to try other options cuz I've been making this freaking project for 2 weeks");
 }
 
 //ELITE ENEMIES
